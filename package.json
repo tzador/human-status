@@ -1,0 +1,27 @@
+{
+  "name": "human-status",
+  "version": "1.0.0",
+  "description": "HTTP Status Codes for use in express, koa and other frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzador/human-status.git"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "codes",
+    "express",
+    "koa",
+    "code"
+  ],
+  "author": "\"Tim Zadorozhny <tzador@gmail.com> (https://tzador.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzador/human-status/issues"
+  },
+  "homepage": "https://github.com/tzador/human-status#readme"
+}

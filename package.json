@@ -1,6 +1,6 @@
 {
   "name": "human-status",
-  "version": "2.0.0`",
+  "version": "1.0.1`",
   "description": "HTTP Status Codes for use in express, koa and other frameworks.",
   "main": "index.js",
   "scripts": {
